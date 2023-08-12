@@ -35,7 +35,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/tah5882/tah5882/output/snake.svg" alt="Snake animation" />
-
-###
