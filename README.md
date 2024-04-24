@@ -2,11 +2,11 @@
 
 ###
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tah5882&count_private=true&theme=radical)
 
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tah5882&layout=compact&theme=radical)
 
 ###
 
