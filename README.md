@@ -18,6 +18,8 @@ Welcome to my GitHub profile!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tah5882&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=tah5882&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Connect with Me
 
 <p align="left">
