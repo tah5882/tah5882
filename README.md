@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 
 - 🌟 Passionate about coding and open-source.
 - 🔭 Currently working on: [Cube](https://github.com/cubeteam-dev).
-- 🌱 Learning: JavaScript
+- 🌱 Learning: TypeScript
 - 📫 Reach me at: [me@tah5882.dev](mailto:me@tah5882.dev).
 
 ## GitHub Stats
