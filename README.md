@@ -18,4 +18,4 @@ Welcome to my GitHub profile!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tah5882&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-[![trophy](github-readme-stats-nine-orpin-76.vercel.app/?username=tah5882&theme=onedark)]
+[![trophy](http://github-readme-stats-nine-orpin-76.vercel.app/api?username=tah5882&theme=onedark)]
